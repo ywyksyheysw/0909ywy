@@ -11,7 +11,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 # or
 pip install poerty
 ```
-
+ttt
 gi 
 
 설치가 완료되면, Poetry 명령어가 정상적으로 동작하는지 확인합니다:
